@@ -5,6 +5,8 @@ Deployed at:  https://ayadav2-baby-logger.herokuapp.com/
 
 Babay Today is an app to help parents monitor the care of their infants.  Users can log feedings, diaper changes and sleep information for each of their children.  Babay Today generates reports based off of the information provided.
 
+Babay Today is built with MySQL, Sequelize, Node.js, Express, and Passport.js.
+
 ## Views
 
 ### Login
