@@ -21,3 +21,8 @@ From the main page users can choose to log one of the following
 * **Food event**: bottle at current time, nursing at current time or a custom time by selecting 'Manual Feed Log'
 * **Diaper event**: dry at current time, wet at current time, dirty at current time or a custom time by selecting 'Manual Change Log'
 * **Sleep event**: at current time or a custom time by selecting 'Manual sleep log'
+
+The last five events entered into the log are displayed at the bottom of the main page.
+
+### Reports
+The reports page lists entries for the current infant.
